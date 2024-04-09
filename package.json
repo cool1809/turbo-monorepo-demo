@@ -1,0 +1,14 @@
+{
+  "name": "turbo-monorepo-demo",
+  "description": "turbo+pnpm+vite5+vue3",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "turbo dev --concurrency 15",
+    "build": "turbo build"
+  },
+  "dependencies": {
+    "turbo": "^1.13.2"
+  }
+}
