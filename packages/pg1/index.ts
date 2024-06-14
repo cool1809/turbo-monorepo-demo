@@ -1,3 +1,3 @@
-export const pgFn = ()=>{
-  console.log('我是pgFN');
-}
+export const pgFn = () => {
+  console.log("我是pgFN");
+};
